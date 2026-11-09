@@ -1,0 +1,14 @@
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<%-- Change the name here ONCE and every page updates. --%>
+<c:set var="appTitle" value="ANOM &ndash; MATH WHIZ" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><c:out value="${appTitle}" escapeXml="false"/></title>
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
+</head>
+<body>
+<main class="card">
+    <h1 class="title"><c:out value="${appTitle}" escapeXml="false"/></h1>
