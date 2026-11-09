@@ -362,4 +362,4 @@ MathWhiz/
 - [x] GitHub repository subdirectory URL → [see below](#github-project-directory-link)
 
 ## GitHub Project Directory Link
-https://github.com/USERNAME/REPOSITORY/tree/main/MathWhiz
+https://github.com/Anom-27/MathWhiz
