@@ -3,7 +3,7 @@
 A web-based mathematical game built with **Java Servlets, JSP, JDBC and MySQL**.
 The player enters a name, answers four maths questions (one prime number, one modulus, two trigonometry) sees the final score out of **10** and the result is saved to a database. A leaderboard shows the **Top 10** scores.
 
-> **Student:** Pritom Kumar Sen Anom · ICT Department, MBSTU
+> **Student:** Pritom Kumar Sen Anom · ICT Department, MBSTU "\n"
 > **Course:** Software Engineering and Project Management Lab – Lab Practice: Java Servlet & JDBC (10 Marks)
 
 ---
